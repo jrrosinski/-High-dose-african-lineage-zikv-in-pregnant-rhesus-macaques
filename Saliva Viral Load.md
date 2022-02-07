@@ -1,5 +1,6 @@
 
 | Animal Id |	DPI	Viral Load | (vRNA copies/mg) |
+| --- | --- | --- |
 | 046-101 |	0 |	0 |
 | 046-101 |	1 |	0 |
 | 046-101 |	2 |
